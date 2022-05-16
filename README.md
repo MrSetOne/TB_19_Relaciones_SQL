@@ -1,3 +1,5 @@
+# <center>Relaciones SQL</center>
+
 # Introducción
 
 MySQL es un sistema de gestión de bases de datos relacionales considerado como la base de datos de código abierto más popular del mundo, especialmente para los entornos de desarrollo web que nos interesan.
@@ -177,4 +179,3 @@ Seleccione un usuario y muestre sus pedidos junto a los productos que contiene c
 3.3.4 BORRAR DATOS
 
 ⦁ Elimina una review por su id. -->
-# TB_19_Relaciones_SQL
